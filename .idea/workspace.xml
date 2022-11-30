@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9a7fb03-3132-4d5c-80aa-82004b54825c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab_7/src/main/java/org/zaika/visitor/VisitorPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_7/src/main/java/org/zaika/visitor/character/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_7/src/main/java/org/zaika/visitor/classes/Barbarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_7/src/main/java/org/zaika/visitor/classes/CharacterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_7/src/main/java/org/zaika/visitor/classes/ClassFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_7/src/main/java/org/zaika/visitor/classes/Cleric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_7/src/main/java/org/zaika/visitor/race/CharacterRace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_7/src/main/java/org/zaika/visitor/race/Dwarf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_7/src/main/java/org/zaika/visitor/race/Elf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_7/src/main/java/org/zaika/visitor/stats/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_7/src/main/java/org/zaika/visitor/stats/Stats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_7/src/main/java/org/zaika/visitor/visitor/DataElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_7/src/main/java/org/zaika/visitor/visitor/DataElementVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_7/src/main/java/org/zaika/visitor/visitor/ElementConsoleVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_7/src/main/java/org/zaika/visitor/visitor/ElementSaverVisitor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GMSoUow4Fr2CXsWA1ds9l2FA2x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/sonlich/Documents/javaEE/lab_7/src/main/java/zaika/example/visitor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab_7/src/main/java/zaika/example/visitor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab_7/src/main/java/org" />
+      <recent name="$PROJECT_DIR$/lab_7/src/main/java/zaika/visitor/visitor" />
+      <recent name="$PROJECT_DIR$/lab_7/src/main/java/zaika/visitor/refactor" />
+      <recent name="$PROJECT_DIR$/lab_7/src/main/java/zaika" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="javaEE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="javaEE" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9a7fb03-3132-4d5c-80aa-82004b54825c" name="Changes" comment="" />
+      <created>1666197134930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666197134930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
