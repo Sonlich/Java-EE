@@ -45,7 +45,6 @@ public class ConnectInputMessage implements Runnable {
 
         PrintWriter out;
         BufferedReader inputUser = new BufferedReader(new InputStreamReader(System.in));
-//        String userMessage = null;
 
         while(true) {
             System.out.println("----Write massage or exit the chat----");
