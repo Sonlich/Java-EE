@@ -41,6 +41,7 @@ public class ConnectInputMessage implements Runnable {
                 break;
             }
         }
+        
         System.out.println("Connected");
 
         PrintWriter out;
