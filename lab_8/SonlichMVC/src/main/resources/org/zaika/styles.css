@@ -1,0 +1,37 @@
+.label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #282a36;
+    -fx-font-weight: normal;
+}
+
+.revert {
+    -fx-background-color: #8be9fd;
+    -fx-font-size: 18px;
+}
+
+.background {
+    -fx-background-color: #f8f8f2;
+}
+
+.text {
+    -fx-background-color: #ffb86c;
+    -fx-font-size: 14px;
+}
+
+.choice {
+    -fx-background-color: #bd93f9;
+}
+
+.menu {
+    -fx-text-fill: #282a36;
+}
+
+.save {
+    -fx-background-color: #ff79c6;
+    -fx-font-size: 18px;
+}
+
+.generate {
+    -fx-background-color: #50fa7b;
+    -fx-font-size: 18px;
+}
